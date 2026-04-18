@@ -65,7 +65,7 @@ AccessDeniedException: not authorized to perform dynamodb:CreateTable
 
   * AmazonDynamoDBFullAccess
  
-    <img width="1919" height="908" alt="Screenshot 2026-04-18 122048" src="https://github.com/user-attachments/assets/510755dd-81a1-4017-9a48-50d0b40bd398" />
+<img width="1045" height="184" alt="Screenshot 2026-04-18 121907" src="https://github.com/user-attachments/assets/2268ecbb-33ee-46ff-9f7a-987cbda73f1b" />
 
 
 ---
