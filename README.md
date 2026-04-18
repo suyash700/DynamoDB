@@ -65,7 +65,7 @@ AccessDeniedException: not authorized to perform dynamodb:CreateTable
 
   * AmazonDynamoDBFullAccess
  
-<img width="1045" height="184" alt="Screenshot 2026-04-18 121907" src="https://github.com/user-attachments/assets/2268ecbb-33ee-46ff-9f7a-987cbda73f1b" />
+<img width="1910" height="908" alt="Screenshot 2026-04-18 121743" src="https://github.com/user-attachments/assets/25a13c59-fa39-4055-b7f2-b8b6055d39bc" />
 
 
 ---
@@ -91,7 +91,8 @@ dynamodb_practical/
 * Sort Key: order_date
 
   <img width="1021" height="804" alt="Screenshot 2026-04-18 122323" src="https://github.com/user-attachments/assets/68ed479b-a92d-46c2-ba78-172e5f74622d" />
-<img width="1056" height="855" alt="Screenshot 2026-04-18 122240" src="https://github.com/user-attachments/assets/93a6ec9b-39d5-4c46-aadc-a0829b5dc110" />
+  
+   <img width="1056" height="855" alt="Screenshot 2026-04-18 122240" src="https://github.com/user-attachments/assets/93a6ec9b-39d5-4c46-aadc-a0829b5dc110" />
 
 
 ### Key Design:
