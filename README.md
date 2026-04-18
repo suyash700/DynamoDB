@@ -127,7 +127,9 @@ Inserted sample orders with attributes:
 * Handles throttling errors
 * Retry logic implemented
 
-  <img width="934" height="69" alt="Screenshot 2026-04-18 121942" src="https://github.com/user-attachments/assets/2e480494-c526-4938-ab25-00b7eb46bdb1" />
+<img width="895" height="125" alt="Screenshot 2026-04-18 122015" src="https://github.com/user-attachments/assets/ebd122a9-0b28-4e03-927f-cdd391501ed0" />
+
+
 
 
 <img width="1919" height="908" alt="Screenshot 2026-04-18 122048" src="https://github.com/user-attachments/assets/9574b665-092a-4ad3-ac1e-5020d6dd95ce" />
